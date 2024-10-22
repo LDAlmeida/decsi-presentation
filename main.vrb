@@ -1,0 +1,13 @@
+\frametitle{Aparência}
+\begin{itemize}
+\item Para inserir um slide final com o título e agradecimento, use \verb|\backmatter|.
+      \begin{itemize}
+      \item O título também aparece nos rodapés junto do autor, você pode mudar esse texto com \verb|\footlinepayoff|
+      \item Você pode remover o título do slide final com\verb|\backmatter[notitle]|
+      \end{itemize}
+\item A proporção padrão é de 16:9 e você não deve altera-la para 4:3 para projetores mais velhos, já que é impossível de converter perfeitamente uma apresentção 16:9 para 4:3; os espaçamentos \emph{vão} quebrar
+      \begin{itemize}
+      \item O argumento \texttt{aspectratio} para a classe \texttt{beamer} é sobescrito pelo tema SINTEF
+      \item Se você \emph{realmente} sabe o que está fazendo, dê uma olhada no código do pacote e procure pela classe \texttt{geometry}.
+      \end{itemize}
+\end{itemize}

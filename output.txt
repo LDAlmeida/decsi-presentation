@@ -1,0 +1,42 @@
+Aqui está um roteiro detalhado para sua apresentação do TCC, seguindo as orientações do seu orientador:
+
+1. Abertura e Apresentação (1 min):
+Cumprimente a banca e os presentes.
+Exemplo: "Boa tarde, gostaria de me apresentar. Meu nome é Lucas Almeida, e primeiramente, gostaria de agradecer aos membros da banca por estarem aqui hoje e por dedicarem seu tempo para avaliar meu trabalho."
+
+2. Sumário da Apresentação (1 min):
+Apresente rapidamente a estrutura da sua apresentação.
+Exemplo: "Na apresentação de hoje, abordarei brevemente a introdução, destacando o problema e os objetivos da pesquisa, em seguida, falarei sobre o desenvolvimento da plataforma, mostrando os principais modelos e funcionalidades implementadas. Também vou compartilhar os testes realizados e seus resultados, para concluir com as considerações finais e possíveis trabalhos futuros."
+
+3. Introdução (3-4 min):
+Explique o problema que você identificou e por que é relevante para a Casa de Cultura de João Monlevade.
+Exemplo: "A Casa de Cultura de João Monlevade, fundada em 1948, é uma instituição chave para a promoção cultural na região. No entanto, não há uma plataforma digital eficiente que conecte os artistas locais com a comunidade. Meu objetivo foi criar uma plataforma para que esses artistas possam divulgar seu trabalho, fortalecendo a presença digital da Casa."
+Objetivo Geral: Desenvolvimento de uma plataforma digital para conectar artistas locais à Casa de Cultura de João Monlevade.
+Objetivos Específicos: Listar brevemente, como escolha de tecnologias e implementações.
+Metodologia: Cite as ferramentas e técnicas, como CodeRed CMS, usabilidade e acessibilidade, além da importância de um sistema gerenciável.
+
+4. Revisão Bibliográfica (1-2 min):
+Resuma brevemente a revisão teórica, focando nas tecnologias escolhidas.
+Exemplo: "Com base nas pesquisas realizadas, a escolha do CodeRed CMS foi crucial por sua flexibilidade e integração com o Wagtail, permitindo criar uma interface acessível para a Casa de Cultura."
+
+5. Desenvolvimento (13-16 min):
+Aqui é o ponto principal. Detalhe o processo de desenvolvimento da plataforma:
+Modelo de dados: Fale sobre o banco de dados SQLite3, explicando como ele atende às necessidades iniciais do projeto, mas permitindo expansão futura.
+Funcionalidades principais: Apresente as principais páginas, como a de editais, e a parte da escola de artes.
+Implementação técnica: Dê uma visão geral de como foi o desenvolvimento usando Python e o CMS escolhido.
+Implemente prints de tela: Mostre prints das principais funcionalidades, como as páginas de listagem de editais e o sistema de gerenciamento.
+
+6. Testes e Resultados (3-5 min):
+Explique os testes realizados e o que foi aprendido.
+Exemplo: "Realizei testes com as ferramentas ImmuniWeb e Pentest Tools para garantir a segurança da plataforma, além de utilizar o Page Speed Insights para otimizar a performance. Os resultados mostraram que a plataforma atende aos requisitos de acessibilidade e segurança, mas há melhorias possíveis em termos de performance."
+Destaque os pontos positivos (ex. segurança) e os negativos (ex. melhorias de performance necessárias).
+
+7. Conclusão e Trabalhos Futuros (1-2 min):
+Reforce a conclusão do trabalho.
+Exemplo: "Concluímos que a plataforma desenvolvida atende aos objetivos propostos, conectando os artistas locais à Casa de Cultura de maneira eficiente. Como trabalho futuro, pretendo expandir o banco de dados e implementar novas funcionalidades para melhor suporte aos artistas."
+
+8. Encerramento (1 min):
+Agradeça a banca novamente.
+Exemplo: "Mais uma vez, agradeço a todos pela atenção e estou à disposição para responder quaisquer perguntas que possam ter."
+Tempo total estimado: 23-26 minutos
+Agora, o ideal é ensaiar essa apresentação para garantir que você atinja o tempo esperado e mantenha o controle de cada seção.
